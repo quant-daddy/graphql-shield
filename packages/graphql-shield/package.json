@@ -27,7 +27,7 @@
     "graphql": "15.6.0",
     "graphql-middleware": "6.1.13",
     "graphql-shield-rules": "0.0.1",
-    "graphql-tools": "7.0.5"
+    "graphql-tools": "8.2.0"
   },
   "peerDependencies": {
     "graphql": "^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0",
